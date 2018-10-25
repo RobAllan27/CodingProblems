@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="10" failures="0" name="findNextMissingIntegerInArray.SolverTest" time="0.041" errors="0" skipped="0">
+<testsuite tests="25" failures="0" name="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" time="0.02" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\bin"/>
@@ -61,14 +61,29 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="findNextMissingIntegerInArray.SolverTest" name="testRun10" time="0.039"/>
-  <testcase classname="findNextMissingIntegerInArray.SolverTest" name="testRun1" time="0"/>
-  <testcase classname="findNextMissingIntegerInArray.SolverTest" name="testRun2" time="0.001"/>
-  <testcase classname="findNextMissingIntegerInArray.SolverTest" name="testRun3" time="0"/>
-  <testcase classname="findNextMissingIntegerInArray.SolverTest" name="testRun4" time="0"/>
-  <testcase classname="findNextMissingIntegerInArray.SolverTest" name="testRun5" time="0"/>
-  <testcase classname="findNextMissingIntegerInArray.SolverTest" name="testRun6" time="0.001"/>
-  <testcase classname="findNextMissingIntegerInArray.SolverTest" name="testRun7" time="0"/>
-  <testcase classname="findNextMissingIntegerInArray.SolverTest" name="testRun8" time="0"/>
-  <testcase classname="findNextMissingIntegerInArray.SolverTest" name="testRun9" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate10" time="0.012"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate11" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate12" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate13" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate14" time="0.001"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate15" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate16" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate17" time="0.001"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate18" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate19" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate20" time="0.001"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate21" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate22" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate23" time="0.001"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate25" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate26" time="0.001"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate1" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate2" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate3" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate4" time="0.001"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate5" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate6" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate7" time="0.001"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate8" time="0"/>
+  <testcase classname="backUpCalendarGeneratorTests.BackupCalendarQueryableTest" name="testGetDiskChoiceForDate9" time="0.001"/>
 </testsuite>

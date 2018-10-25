@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class SolverTest {
 
-	static MissingIntegerSolver mySolver;
+	private static MissingIntegerSolver mySolver;
 	
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
