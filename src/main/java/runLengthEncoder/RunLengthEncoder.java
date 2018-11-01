@@ -3,10 +3,17 @@ package runLengthEncoder;
 /** This class implements a run length encoder. It takes a string 
  * and then iterates through the string. At the first character, it stashes it.
  * The at each of the next character it either sees it is new character - in which case it appends a counters and 
- * the character
+ * the character.
+ * 
+ * At the end of the string we have to write out resutls (for the last character type and count) - 
+ * we do all the other in the loop.
+ * 
  * The problem calls find simple counters
- * Other problems may be if one allows numerics in the input character string and you have more than 9,
- * how to differentiate between counters and characters. This could be solved with delimiters - say reserve '_' underscore
+ *  - Other problems may be if one allows numerics in the input character string and you have more than 9,
+ *  - how to differentiate between counters and characters. This could be solved with delimiters - say reserve '_' underscore
+ * 
+ * A private boolean allows the delimiter to be run - test cases are currently without the delimiter.
+ * 
  * @author Rob
  *
  */
