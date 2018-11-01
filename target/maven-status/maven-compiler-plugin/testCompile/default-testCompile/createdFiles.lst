@@ -1,3 +1,4 @@
 backUpCalendarGeneratorTests\BackupCalendarQueryableTest.class
+wellFormedString\WellFormedStringCheckerTest.class
 findNextMissingIntegerInArray\SolverTest.class
 findIfNumbersInArraySumToTotal\SolverTest.class
