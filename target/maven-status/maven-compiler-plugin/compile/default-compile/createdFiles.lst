@@ -2,10 +2,12 @@ backUpCalendarGenerator\BackUpCalendarGenerator.class
 findNextMissingIntegerInArray\MissingIntegerSolver.class
 findIfNumbersInArraySumToTotal\ProblemRunner.class
 wellFormedString\ProblemRunner.class
+subarraysumstotarget\SubArrayVerifier.class
 wellFormedString\WellFormedStringChecker.class
 wellFormedString\StoredPairSet.class
 findNextMissingIntegerInArray\ProblemRunner.class
 runLengthEncoder\ProblemRunner.class
+subarraysumstotarget\ProblemRunner.class
 runLengthEncoder\RunLengthEncoder.class
 backUpCalendarGenerator\BackupCalendarQueryable.class
 backUpCalendarGenerator\ProblemRunner.class
