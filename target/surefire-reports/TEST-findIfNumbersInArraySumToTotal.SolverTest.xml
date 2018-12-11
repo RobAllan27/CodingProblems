@@ -27,9 +27,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\Rob\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7753487374596364159.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Rob\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf684610658380557053.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\Rob\AppData\Local\Microsoft\WindowsApps;C:\Users\Rob\AppData\Local\Programs\Fiddler;C:\Users\Rob\AppData\Local\Programs\Python\Python37;C:\Users\Rob\AppData\Local\Programs\Python\Python37\Scripts;;C:\Users\Rob\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Rob\Downloads\eclipse\eclipse;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Rob\AppData\Local\Microsoft\WindowsApps;C:\Users\Rob\AppData\Local\Programs\Fiddler;C:\Users\Rob\AppData\Local\Programs\Python\Python37;C:\Users\Rob\AppData\Local\Programs\Python\Python37\Scripts;;C:\Users\Rob\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Rob\AppData\Roaming\npm;C:\Users\Rob\Downloads\eclipse\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -71,12 +71,12 @@
   <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun17" time="0"/>
   <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun18" time="0"/>
   <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun30" time="0"/>
-  <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun31" time="0"/>
+  <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun31" time="0.001"/>
   <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun32" time="0"/>
   <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun33" time="0"/>
   <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun34" time="0"/>
   <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun35" time="0"/>
-  <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun36" time="0.001"/>
+  <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun36" time="0"/>
   <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun37" time="0"/>
   <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun38" time="0"/>
   <testcase classname="findIfNumbersInArraySumToTotal.SolverTest" name="testRun39" time="0"/>

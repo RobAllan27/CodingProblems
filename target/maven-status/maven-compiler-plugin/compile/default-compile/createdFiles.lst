@@ -5,9 +5,15 @@ wellFormedString\ProblemRunner.class
 subarraysumstotarget\SubArrayVerifier.class
 wellFormedString\WellFormedStringChecker.class
 wellFormedString\StoredPairSet.class
+efficientpowers\ProblemRunner.class
 findNextMissingIntegerInArray\ProblemRunner.class
+attackingBishops\AttackingBishopsCounter.class
 runLengthEncoder\ProblemRunner.class
+arraypartsaddtosum\ProblemRunner.class
+attackingBishops\ProblemRunner.class
+arraypartsaddtosum\ArrayPartsAdder.class
 subarraysumstotarget\ProblemRunner.class
+efficientpowers\EfficientPowerCalculator.class
 runLengthEncoder\RunLengthEncoder.class
 backUpCalendarGenerator\BackupCalendarQueryable.class
 backUpCalendarGenerator\ProblemRunner.class
